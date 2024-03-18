@@ -1,0 +1,440 @@
+{
+	"data": [{
+		"id": 3204600,
+		"gameId": 432,
+		"modId": 367635,
+		"isAvailable": true,
+		"displayName": "New Beginnings 2.6.0",
+		"fileName": "New Beginnings-2.6.0.zip",
+		"releaseType": 1,
+		"fileStatus": 4,
+		"hashes": [],
+		"fileDate": "2021-02-15T08:21:14.383Z",
+		"fileLength": 6175174,
+		"downloadCount": 305197,
+		"downloadUrl": "https://edge.forgecdn.net/files/3204/600/New Beginnings-2.6.0.zip",
+		"gameVersions": ["1.15.2"],
+		"sortableGameVersions": [{
+			"gameVersionName": "1.15.2",
+			"gameVersionPadded": "0000000001.0000000015.0000000002",
+			"gameVersion": "1.15.2",
+			"gameVersionReleaseDate": "2020-01-22T00:00:00Z",
+			"gameVersionTypeId": null
+		}],
+		"dependencies": [],
+		"alternateFileId": 3204605,
+		"isServerPack": false,
+		"serverPackFileId": 3204605,
+		"fileFingerprint": 3561721027,
+		"modules": [{
+			"name": "manifest.json",
+			"fingerprint": 1692179199
+		}]
+	}, {
+		"id": 3095895,
+		"gameId": 432,
+		"modId": 367635,
+		"isAvailable": true,
+		"displayName": "New Beginnings 2.5.0",
+		"fileName": "New Beginnings-2.5.0.zip",
+		"releaseType": 1,
+		"fileStatus": 4,
+		"hashes": [],
+		"fileDate": "2020-10-29T03:29:10.083Z",
+		"fileLength": 6167894,
+		"downloadCount": 161200,
+		"downloadUrl": "https://edge.forgecdn.net/files/3095/895/New Beginnings-2.5.0.zip",
+		"gameVersions": ["1.15.2"],
+		"sortableGameVersions": [{
+			"gameVersionName": "1.15.2",
+			"gameVersionPadded": "0000000001.0000000015.0000000002",
+			"gameVersion": "1.15.2",
+			"gameVersionReleaseDate": "2020-01-22T00:00:00Z",
+			"gameVersionTypeId": null
+		}],
+		"dependencies": [],
+		"alternateFileId": 3095897,
+		"isServerPack": false,
+		"serverPackFileId": 3095897,
+		"fileFingerprint": 89489189,
+		"modules": [{
+			"name": "manifest.json",
+			"fingerprint": 2530998370
+		}]
+	}, {
+		"id": 3000343,
+		"gameId": 432,
+		"modId": 367635,
+		"isAvailable": true,
+		"displayName": "New Beginnings 2.4.2",
+		"fileName": "New Beginnings-2.4.2.zip",
+		"releaseType": 1,
+		"fileStatus": 4,
+		"hashes": [],
+		"fileDate": "2020-07-09T12:39:36.187Z",
+		"fileLength": 6164368,
+		"downloadCount": 156957,
+		"downloadUrl": "https://edge.forgecdn.net/files/3000/343/New Beginnings-2.4.2.zip",
+		"gameVersions": ["1.15.2"],
+		"sortableGameVersions": [{
+			"gameVersionName": "1.15.2",
+			"gameVersionPadded": "0000000001.0000000015.0000000002",
+			"gameVersion": "1.15.2",
+			"gameVersionReleaseDate": "2020-01-22T00:00:00Z",
+			"gameVersionTypeId": null
+		}],
+		"dependencies": [],
+		"alternateFileId": 3000361,
+		"isServerPack": false,
+		"serverPackFileId": 3000361,
+		"fileFingerprint": 4220398583,
+		"modules": [{
+			"name": "manifest.json",
+			"fingerprint": 3869273959
+		}]
+	}, {
+		"id": 3000310,
+		"gameId": 432,
+		"modId": 367635,
+		"isAvailable": true,
+		"displayName": "New Beginnings 2.4.1",
+		"fileName": "New Beginnings-2.4.1.zip",
+		"releaseType": 1,
+		"fileStatus": 4,
+		"hashes": [],
+		"fileDate": "2020-07-09T11:17:52.793Z",
+		"fileLength": 6164290,
+		"downloadCount": 1015,
+		"downloadUrl": "https://edge.forgecdn.net/files/3000/310/New Beginnings-2.4.1.zip",
+		"gameVersions": ["1.15.2"],
+		"sortableGameVersions": [{
+			"gameVersionName": "1.15.2",
+			"gameVersionPadded": "0000000001.0000000015.0000000002",
+			"gameVersion": "1.15.2",
+			"gameVersionReleaseDate": "2020-01-22T00:00:00Z",
+			"gameVersionTypeId": null
+		}],
+		"dependencies": [],
+		"alternateFileId": 3000325,
+		"isServerPack": false,
+		"serverPackFileId": 3000325,
+		"fileFingerprint": 2480012954,
+		"modules": [{
+			"name": "manifest.json",
+			"fingerprint": 2157020991
+		}]
+	}, {
+		"id": 2997425,
+		"gameId": 432,
+		"modId": 367635,
+		"isAvailable": true,
+		"displayName": "New Beginnings 2.4",
+		"fileName": "New Beginnings-2.4.0.zip",
+		"releaseType": 1,
+		"fileStatus": 4,
+		"hashes": [],
+		"fileDate": "2020-07-06T04:58:57.627Z",
+		"fileLength": 6163854,
+		"downloadCount": 7186,
+		"downloadUrl": "https://edge.forgecdn.net/files/2997/425/New Beginnings-2.4.0.zip",
+		"gameVersions": ["1.15.2"],
+		"sortableGameVersions": [{
+			"gameVersionName": "1.15.2",
+			"gameVersionPadded": "0000000001.0000000015.0000000002",
+			"gameVersion": "1.15.2",
+			"gameVersionReleaseDate": "2020-01-22T00:00:00Z",
+			"gameVersionTypeId": null
+		}],
+		"dependencies": [],
+		"alternateFileId": 2997427,
+		"isServerPack": false,
+		"serverPackFileId": 2997427,
+		"fileFingerprint": 1373707139,
+		"modules": [{
+			"name": "manifest.json",
+			"fingerprint": 1204727678
+		}]
+	}, {
+		"id": 2983459,
+		"gameId": 432,
+		"modId": 367635,
+		"isAvailable": true,
+		"displayName": "New Beginnings 2.3",
+		"fileName": "New Beginnings-2.3.0.zip",
+		"releaseType": 1,
+		"fileStatus": 4,
+		"hashes": [],
+		"fileDate": "2020-06-19T02:28:37.163Z",
+		"fileLength": 6118250,
+		"downloadCount": 28037,
+		"downloadUrl": "https://edge.forgecdn.net/files/2983/459/New Beginnings-2.3.0.zip",
+		"gameVersions": ["1.15.2"],
+		"sortableGameVersions": [{
+			"gameVersionName": "1.15.2",
+			"gameVersionPadded": "0000000001.0000000015.0000000002",
+			"gameVersion": "1.15.2",
+			"gameVersionReleaseDate": "2020-01-22T00:00:00Z",
+			"gameVersionTypeId": null
+		}],
+		"dependencies": [],
+		"alternateFileId": 2983464,
+		"isServerPack": false,
+		"serverPackFileId": 2983464,
+		"fileFingerprint": 495007642,
+		"modules": [{
+			"name": "manifest.json",
+			"fingerprint": 1630723059
+		}]
+	}, {
+		"id": 2964466,
+		"gameId": 432,
+		"modId": 367635,
+		"isAvailable": true,
+		"displayName": "New Beginnings 2.2.1",
+		"fileName": "New Beginnings-2.2.1.zip",
+		"releaseType": 1,
+		"fileStatus": 4,
+		"hashes": [],
+		"fileDate": "2020-05-24T06:20:44.397Z",
+		"fileLength": 6091186,
+		"downloadCount": 53248,
+		"downloadUrl": "https://edge.forgecdn.net/files/2964/466/New Beginnings-2.2.1.zip",
+		"gameVersions": ["1.15.2"],
+		"sortableGameVersions": [{
+			"gameVersionName": "1.15.2",
+			"gameVersionPadded": "0000000001.0000000015.0000000002",
+			"gameVersion": "1.15.2",
+			"gameVersionReleaseDate": "2020-01-22T00:00:00Z",
+			"gameVersionTypeId": null
+		}],
+		"dependencies": [],
+		"alternateFileId": 2964469,
+		"isServerPack": false,
+		"serverPackFileId": 2964469,
+		"fileFingerprint": 3598071661,
+		"modules": [{
+			"name": "manifest.json",
+			"fingerprint": 2754237543
+		}]
+	}, {
+		"id": 2961164,
+		"gameId": 432,
+		"modId": 367635,
+		"isAvailable": true,
+		"displayName": "New Beginnings 2.2",
+		"fileName": "New Beginnings-2.2.0.zip",
+		"releaseType": 1,
+		"fileStatus": 4,
+		"hashes": [],
+		"fileDate": "2020-05-20T00:20:14.813Z",
+		"fileLength": 6091261,
+		"downloadCount": 11394,
+		"downloadUrl": "https://edge.forgecdn.net/files/2961/164/New Beginnings-2.2.0.zip",
+		"gameVersions": ["1.15.2"],
+		"sortableGameVersions": [{
+			"gameVersionName": "1.15.2",
+			"gameVersionPadded": "0000000001.0000000015.0000000002",
+			"gameVersion": "1.15.2",
+			"gameVersionReleaseDate": "2020-01-22T00:00:00Z",
+			"gameVersionTypeId": null
+		}],
+		"dependencies": [],
+		"alternateFileId": 2961169,
+		"isServerPack": false,
+		"serverPackFileId": 2961169,
+		"fileFingerprint": 1164842482,
+		"modules": [{
+			"name": "manifest.json",
+			"fingerprint": 2058948622
+		}]
+	}, {
+		"id": 2938249,
+		"gameId": 432,
+		"modId": 367635,
+		"isAvailable": true,
+		"displayName": "New Beginnings 2.1",
+		"fileName": "New Beginnings-2.1.0.zip",
+		"releaseType": 1,
+		"fileStatus": 4,
+		"hashes": [],
+		"fileDate": "2020-04-23T09:17:22.403Z",
+		"fileLength": 6087575,
+		"downloadCount": 69749,
+		"downloadUrl": "https://edge.forgecdn.net/files/2938/249/New Beginnings-2.1.0.zip",
+		"gameVersions": ["1.15.2"],
+		"sortableGameVersions": [{
+			"gameVersionName": "1.15.2",
+			"gameVersionPadded": "0000000001.0000000015.0000000002",
+			"gameVersion": "1.15.2",
+			"gameVersionReleaseDate": "2020-01-22T00:00:00Z",
+			"gameVersionTypeId": null
+		}],
+		"dependencies": [],
+		"alternateFileId": 2938255,
+		"isServerPack": false,
+		"serverPackFileId": 2938255,
+		"fileFingerprint": 414255814,
+		"modules": [{
+			"name": "manifest.json",
+			"fingerprint": 3923051445
+		}]
+	}, {
+		"id": 2934417,
+		"gameId": 432,
+		"modId": 367635,
+		"isAvailable": true,
+		"displayName": "New Beginnings 2.0",
+		"fileName": "New Beginnings-2.0.0.zip",
+		"releaseType": 1,
+		"fileStatus": 4,
+		"hashes": [],
+		"fileDate": "2020-04-19T08:11:29.223Z",
+		"fileLength": 6081322,
+		"downloadCount": 13430,
+		"downloadUrl": "https://edge.forgecdn.net/files/2934/417/New Beginnings-2.0.0.zip",
+		"gameVersions": ["1.15.2"],
+		"sortableGameVersions": [{
+			"gameVersionName": "1.15.2",
+			"gameVersionPadded": "0000000001.0000000015.0000000002",
+			"gameVersion": "1.15.2",
+			"gameVersionReleaseDate": "2020-01-22T00:00:00Z",
+			"gameVersionTypeId": null
+		}],
+		"dependencies": [],
+		"alternateFileId": 2934423,
+		"isServerPack": false,
+		"serverPackFileId": 2934423,
+		"fileFingerprint": 2789555910,
+		"modules": [{
+			"name": "manifest.json",
+			"fingerprint": 3606455188
+		}]
+	}, {
+		"id": 2908388,
+		"gameId": 432,
+		"modId": 367635,
+		"isAvailable": true,
+		"displayName": "New Beginnings-1.2.1.zip",
+		"fileName": "New Beginnings-1.2.1.zip",
+		"releaseType": 1,
+		"fileStatus": 4,
+		"hashes": [],
+		"fileDate": "2020-03-21T23:21:05.263Z",
+		"fileLength": 51622,
+		"downloadCount": 43292,
+		"downloadUrl": "https://edge.forgecdn.net/files/2908/388/New Beginnings-1.2.1.zip",
+		"gameVersions": ["1.15.2"],
+		"sortableGameVersions": [{
+			"gameVersionName": "1.15.2",
+			"gameVersionPadded": "0000000001.0000000015.0000000002",
+			"gameVersion": "1.15.2",
+			"gameVersionReleaseDate": "2020-01-22T00:00:00Z",
+			"gameVersionTypeId": null
+		}],
+		"dependencies": [],
+		"alternateFileId": 2920461,
+		"isServerPack": false,
+		"serverPackFileId": 2920461,
+		"fileFingerprint": 1242015283,
+		"modules": [{
+			"name": "manifest.json",
+			"fingerprint": 1819011114
+		}]
+	}, {
+		"id": 2905161,
+		"gameId": 432,
+		"modId": 367635,
+		"isAvailable": true,
+		"displayName": "New Beginnings-1.2.0.zip",
+		"fileName": "New Beginnings-1.2.0.zip",
+		"releaseType": 1,
+		"fileStatus": 4,
+		"hashes": [],
+		"fileDate": "2020-03-19T05:40:35.843Z",
+		"fileLength": 50788,
+		"downloadCount": 679,
+		"downloadUrl": "https://edge.forgecdn.net/files/2905/161/New Beginnings-1.2.0.zip",
+		"gameVersions": ["1.15.2"],
+		"sortableGameVersions": [{
+			"gameVersionName": "1.15.2",
+			"gameVersionPadded": "0000000001.0000000015.0000000002",
+			"gameVersion": "1.15.2",
+			"gameVersionReleaseDate": "2020-01-22T00:00:00Z",
+			"gameVersionTypeId": null
+		}],
+		"dependencies": [],
+		"alternateFileId": 0,
+		"isServerPack": false,
+		"fileFingerprint": 3882219722,
+		"modules": [{
+			"name": "manifest.json",
+			"fingerprint": 877023870
+		}]
+	}, {
+		"id": 2903543,
+		"gameId": 432,
+		"modId": 367635,
+		"isAvailable": true,
+		"displayName": "New Beginnings-1.1.0.zip",
+		"fileName": "New Beginnings-1.1.0.zip",
+		"releaseType": 1,
+		"fileStatus": 4,
+		"hashes": [],
+		"fileDate": "2020-03-17T02:03:57.93Z",
+		"fileLength": 47408,
+		"downloadCount": 168,
+		"downloadUrl": "https://edge.forgecdn.net/files/2903/543/New Beginnings-1.1.0.zip",
+		"gameVersions": ["1.15.2"],
+		"sortableGameVersions": [{
+			"gameVersionName": "1.15.2",
+			"gameVersionPadded": "0000000001.0000000015.0000000002",
+			"gameVersion": "1.15.2",
+			"gameVersionReleaseDate": "2020-01-22T00:00:00Z",
+			"gameVersionTypeId": null
+		}],
+		"dependencies": [],
+		"alternateFileId": 0,
+		"isServerPack": false,
+		"fileFingerprint": 2514244863,
+		"modules": [{
+			"name": "manifest.json",
+			"fingerprint": 2791237881
+		}]
+	}, {
+		"id": 2902932,
+		"gameId": 432,
+		"modId": 367635,
+		"isAvailable": true,
+		"displayName": "New Beginnings-1.0.0.zip",
+		"fileName": "New Beginnings-1.0.0.zip",
+		"releaseType": 1,
+		"fileStatus": 4,
+		"hashes": [],
+		"fileDate": "2020-03-16T07:49:19.537Z",
+		"fileLength": 44181,
+		"downloadCount": 423,
+		"downloadUrl": "https://edge.forgecdn.net/files/2902/932/New Beginnings-1.0.0.zip",
+		"gameVersions": ["1.15.2"],
+		"sortableGameVersions": [{
+			"gameVersionName": "1.15.2",
+			"gameVersionPadded": "0000000001.0000000015.0000000002",
+			"gameVersion": "1.15.2",
+			"gameVersionReleaseDate": "2020-01-22T00:00:00Z",
+			"gameVersionTypeId": null
+		}],
+		"dependencies": [],
+		"alternateFileId": 0,
+		"isServerPack": false,
+		"fileFingerprint": 1708019500,
+		"modules": [{
+			"name": "manifest.json",
+			"fingerprint": 2951787934
+		}]
+	}],
+	"pagination": {
+		"index": 0,
+		"pageSize": 50,
+		"resultCount": 14,
+		"totalCount": 14
+	}
+}

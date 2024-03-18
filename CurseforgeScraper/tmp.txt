@@ -1,0 +1,36 @@
+{
+    "data": {
+        "latestFiles": [{
+            "hashes": [{
+                "value": "3045e8440ea44071d8b83c4e7b3c190348fdc527",
+                "algo": 1
+            }, {
+                "value": "1dee4be93d666e2228039c551e927b35",
+                "algo": 2
+            }],
+            "sortableGameVersions": [{
+                "gameVersionName": "1.12.2",
+                "gameVersionPadded": "0000000001.0000000012.0000000002",
+                "gameVersion": "1.12.2",
+                "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+                "gameVersionTypeId": 628
+            }],
+            "modules": [{
+                "name": "META-INF",
+                "fingerprint": 2236405288
+            }, {
+                "name": "mezz",
+                "fingerprint": 2222830911
+            }, {
+                "name": "pack.mcmeta",
+                "fingerprint": 1488642189
+            }, {
+                "name": "mcmod.info",
+                "fingerprint": 3528499262
+            }, {
+                "name": "assets",
+                "fingerprint": 9943101
+            }]
+        }],
+    }
+}

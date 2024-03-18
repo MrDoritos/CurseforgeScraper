@@ -1,0 +1,127 @@
+{
+    "data": {
+        "id": 367635,
+        "gameId": 432,
+        "name": "HR: New Beginnings",
+        "slug": "hr-new-beginnings",
+        "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/modpacks/hr-new-beginnings",
+            "wikiUrl": "",
+            "issuesUrl": null,
+            "sourceUrl": null
+        },
+        "summary": "New Beginnings is a 1.15.2 modpack that adds to the vanilla experience.  ",
+        "status": 4,
+        "downloadCount": 1020695,
+        "isFeatured": true,
+        "primaryCategoryId": 4476,
+        "categories": [{
+            "id": 4475,
+            "gameId": 432,
+            "name": "Adventure and RPG",
+            "slug": "adventure-and-rpg",
+            "url": "https://www.curseforge.com/minecraft/modpacks/adventure-and-rpg",
+            "iconUrl": "https://media.forgecdn.net/avatars/14/480/635596775049811800.png",
+            "dateModified": "2015-02-16T15:58:24.98Z",
+            "isClass": false,
+            "classId": 4471,
+            "parentCategoryId": 4471
+        }, {
+            "id": 4476,
+            "gameId": 432,
+            "name": "Exploration",
+            "slug": "exploration",
+            "url": "https://www.curseforge.com/minecraft/modpacks/exploration",
+            "iconUrl": "https://media.forgecdn.net/avatars/14/486/635596815896417213.png",
+            "dateModified": "2015-02-16T17:06:29.69Z",
+            "isClass": false,
+            "classId": 4471,
+            "parentCategoryId": 4471
+        }, {
+            "id": 4484,
+            "gameId": 432,
+            "name": "Multiplayer",
+            "slug": "multiplayer",
+            "url": "https://www.curseforge.com/minecraft/modpacks/multiplayer",
+            "iconUrl": "https://media.forgecdn.net/avatars/14/481/635596792838491141.png",
+            "dateModified": "2015-02-16T16:28:03.85Z",
+            "isClass": false,
+            "classId": 4471,
+            "parentCategoryId": 4471
+        }, {
+            "id": 4472,
+            "gameId": 432,
+            "name": "Tech",
+            "slug": "tech",
+            "url": "https://www.curseforge.com/minecraft/modpacks/tech",
+            "iconUrl": "https://media.forgecdn.net/avatars/14/479/635596761534662757.png",
+            "dateModified": "2015-02-16T15:35:53.467Z",
+            "isClass": false,
+            "classId": 4471,
+            "parentCategoryId": 4471
+        }],
+        "classId": 4471,
+        "authors": [{
+            "id": 273640,
+            "name": "Haydennz",
+            "url": "https://www.curseforge.com/members/100902967-haydennz?username=haydennz"
+        }],
+        "logo": {
+            "id": 254719,
+            "modId": 367635,
+            "title": "637199416702301560.png",
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/254/719/256/256/637199416702301560.png",
+            "url": "https://media.forgecdn.net/avatars/254/719/637199416702301560.png"
+        },
+        "screenshots": [],
+        "mainFileId": 3204600,
+        "latestFiles": [{
+            "id": 3204600,
+            "gameId": 432,
+            "modId": 367635,
+            "isAvailable": true,
+            "displayName": "New Beginnings 2.6.0",
+            "fileName": "New Beginnings-2.6.0.zip",
+            "releaseType": 1,
+            "fileStatus": 4,
+            "hashes": [],
+            "fileDate": "2021-02-15T08:21:14.383Z",
+            "fileLength": 6175174,
+            "downloadCount": 305197,
+            "downloadUrl": "https://edge.forgecdn.net/files/3204/600/New Beginnings-2.6.0.zip",
+            "gameVersions": ["1.15.2"],
+            "sortableGameVersions": [{
+                "gameVersionName": "1.15.2",
+                "gameVersionPadded": "0000000001.0000000015.0000000002",
+                "gameVersion": "1.15.2",
+                "gameVersionReleaseDate": "2020-01-22T00:00:00Z",
+                "gameVersionTypeId": null
+            }],
+            "dependencies": [],
+            "alternateFileId": 0,
+            "isServerPack": false,
+            "serverPackFileId": 3204605,
+            "fileFingerprint": 3561721027,
+            "modules": [{
+                "name": "manifest.json",
+                "fingerprint": 1692179199
+            }]
+        }],
+        "latestFilesIndexes": [{
+            "gameVersion": "1.15.2",
+            "fileId": 3204600,
+            "filename": "New Beginnings-2.6.0.zip",
+            "releaseType": 1,
+            "gameVersionTypeId": null,
+            "modLoader": null
+        }],
+        "dateCreated": "2020-03-16T07:47:50.18Z",
+        "dateModified": "2021-02-15T08:29:52.997Z",
+        "dateReleased": "2021-02-15T08:26:25.273Z",
+        "allowModDistribution": null,
+        "gamePopularityRank": 2738,
+        "isAvailable": true,
+        "thumbsUpCount": 0
+    }
+}

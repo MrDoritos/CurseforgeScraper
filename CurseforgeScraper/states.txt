@@ -1,0 +1,33 @@
+                        /*
+                         *              Follow      HasDesc     Skip
+                         * Scrape       false       false       false
+                         * Skip         false       false       true
+                         * Scrape       false       true        false
+                         * Skip         false       true        true
+                         * Scrape       true        false       false
+                         * Skip         true        false       true
+                         * Skip         true        true        false
+                         * Skip         true        true        true
+                         * 
+                         * follow || (!has || !skip)
+                         * !skip && ((follow && !has) || (!follow && has))
+                         * (!follow && !skip) || (!has && !skip)
+                         * https://www.dcode.fr/boolean-truth-table
+                         */
+                        bool hasDescription = (addon.scrapeInfo & Addon.ScrapeInfoEnum.DESCRIPTION) != 0;
+                        if ((!followFlags && !ScraperRules.SkipDescription) || (!hasDescription && !ScraperRules.SkipDescription))
+
+
+                        /*
+                         * Follow   Updated Upto
+                         * false    false   false   true
+                         * false    false   true    true
+                         * false    true    false   true
+                         * false    true    true    true
+                         * true     false   false   true
+                         * true     false   true    false
+                         * true     true    false   true
+                         * true     true    true    true
+                         * 
+                         */
+                        if (followFlags && !updatedRecently && upToCurrentArgs)
